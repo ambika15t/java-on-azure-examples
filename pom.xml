@@ -6,7 +6,7 @@
     <artifactId>project</artifactId>
     <version>1-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>Java on Azure Examples Project</name>  
+    <name>Java on Azure Examples Project1</name>  
     <properties>
         <azure.bom.version>1.2.30</azure.bom.version>
         <azure.spring.version>3.1.0</azure.spring.version>
